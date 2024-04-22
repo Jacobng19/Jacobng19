@@ -1,5 +1,5 @@
 # Hello, I'm Jacob G.
-<a href="[www.linkedin.com/in/jacob-green-640128181](https://www.linkedin.com/in/jacob-green-640128181/)"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/jacob-green-640128181"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 I'm currently a Paid Search Analyst with a growing enthusiasm for cybersecurity. My day-to-day work has led me to discover a passion for implementing security practices, adding a new goal to my professional journey.
 

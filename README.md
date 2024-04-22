@@ -21,6 +21,7 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 </div>
 
 ## Projects
+- Phishing Email Analysis
 - Wazuh + SOAR Implementation
 - Windows Event Log + Art Detection
 - Security Onion + PCAP Investigation

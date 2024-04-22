@@ -5,7 +5,7 @@ I'm currently a Paid Search Analyst with a growing enthusiasm for cybersecurity.
 
 ## Objective
 
-After gaining experience in the marketing field, I'm now focused on transitioning into the cybersecurity industry, intending to join a Security Operations Center as a Tier 1 Analyst.
+After gaining experience in the marketing field, I'm now focused on transitioning into the cybersecurity industry, intending to join a Security Operations Center as a Tier 1 Analyst. Check out some of the projects and skills I've learned!
 
 ## Skills
 

@@ -11,7 +11,7 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Incident Response & URL Investigation           | <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis</a>|
+| Incident Response & Following Playbook           | <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

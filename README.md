@@ -21,7 +21,7 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 </div>
 
 ## Projects
-- <a href="https://google.com](https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis
+- <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis
 - Wazuh + SOAR Implementation
 - Windows Event Log + Art Detection
 - Security Onion + PCAP Investigation

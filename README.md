@@ -46,6 +46,14 @@ After gaining experience in the marketing field, I'm now focused on transitionin
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure%20Sentinel-0088D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 
+### Online Tools
+<div>
+    <img src="https://img.shields.io/badge/-Whois%20by%20DomainTools-1F98D9?&style=for-the-badge&logo=domainTools&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-4CAF50?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+
+  
+</div>
+
     
   
 </div>

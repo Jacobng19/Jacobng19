@@ -21,9 +21,10 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 </div>
 
 ## Projects
+- Setup SEIM With Active Attacks
 - <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis
 - Security Onion + PCAP Investigation
-- Setup SEIM Test Lab
+- Setup Honeypot
   
 ## Tools
 
@@ -43,6 +44,9 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20Sentinel-0088D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+
+    
   
 </div>
 

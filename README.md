@@ -38,7 +38,8 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%20Onion-4B275F?&style=for-the-badge&logo=Security%20Onion&logoColor=white" />
+
 </div>
 
 ### SIEM

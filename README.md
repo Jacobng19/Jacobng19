@@ -22,15 +22,9 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 
 ## Projects
 - <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis
-- Wazuh + SOAR Implementation
-- Windows Event Log + Art Detection
 - Security Onion + PCAP Investigation
-- Microsoft 365 + MDE Implementation
-- Active Directory + Detect Attacks
-- Malware Analysis Lab
-- IDS/Zeek Network Monitoring
-- Setup Honeypot
 - Setup SEIM Test Lab
+  
 ## Tools
 
 ### Network

@@ -12,32 +12,30 @@ After gaining experience in the marketing field, I'm now focused on transitionin
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Incident Response & Following Playbook           | <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| URL & IP Address Investigation      | <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis</a>|
+| SEIM Integration + Querying Log Files | <a href="https://github.com/Jacobng19/SEIM-With-Attacks">Setup SEIM With Active Attacks</a>|
+| Managing Network Inbound Rules         | <a href="https://github.com/Jacobng19/SEIM-With-Attacks">Setup SEIM With Active Attacks</a>|
+| Visualization Techniques & Documenting | <a href="https://github.com/Jacobng19/SEIM-With-Attacks">Setup SEIM With Active Attacks</a>|
 
 </div>
 
 ## Projects
-- Setup SEIM With Active Attacks
+- <a href="https://github.com/Jacobng19/SEIM-With-Attacks">Setup SEIM With Active Attacks
 - <a href="https://github.com/Jacobng19/Email-Analysis-Phishing-">Phishing Email Analysis
 - Security Onion + PCAP Investigation
-- Setup Honeypot
+- <a href="https://github.com/Jacobng19/SEIM-With-Attacks">Setup Honeypot
   
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Defender_Firewall-0078D4?&style=for-the-badge&logo=Windows%20Defender%20Firewall&logoColor=white" />
+
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security%20Onion-4B275F?&style=for-the-badge&logo=Security%20Onion&logoColor=white" />
 
 </div>
